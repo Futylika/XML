@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<preferences>
+    <info>
+         <favorite_movie value="1+1" />
+         <favorite_TV_show tv="TED" />
+         <favorite_food nm="stuffed pepper" />
+ 		 <сountry_to_visit="England" />
+    </info>
+</preferences>
