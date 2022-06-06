@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<applicant>
+    <about>
+         <title value=«Info about applicant» />
+         <author fio=«Kondras Svetlana» />
+         <number_of_animals num=«3» />
+ 		 <salary sal=«1500» />
+    </about>
+</applicant>
